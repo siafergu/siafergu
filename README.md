@@ -4,6 +4,7 @@
 
 - <b>Java and API's</b>
   - [Watercolor Overlay Program](https://github.com/siafergu/watercolor-overlay-javaFX/tree/main)
+  - [Caeser Cipher](https://github.com/siafergu/caeser-cipher/tree/main)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
