@@ -6,7 +6,7 @@
   - [Watercolor Overlay Program](https://github.com/siafergu/watercolor-overlay-javaFX/tree/main)
   - [Caeser Cipher](https://github.com/siafergu/caeser-cipher/tree/main)
 - <b>C++</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Binary Search](https://github.com/siafergu/C-binary-search) 
 - <b>HTML and CSS</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Python</b>
