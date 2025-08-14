@@ -8,7 +8,7 @@
 - <b>C++</b>
   - [Binary Search](https://github.com/siafergu/C-binary-search) 
 - <b>HTML and CSS</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [WebPage Example](https://github.com/siafergu/Webpage-Example/tree/main)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 <h2> Painting Projects: </h2>
