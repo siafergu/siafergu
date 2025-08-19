@@ -14,6 +14,7 @@
 
 - <b>On Canvas</b>
   - [Where Do You Go Painting](https://github.com/siafergu/painting-wheredoyougo/tree/main)
+  - [Watch Your Step Painting](https://github.com/siafergu/painting-watchyourstep/blob/main/README.md)
   
 - <b>On Wooden Panels</b>
   
